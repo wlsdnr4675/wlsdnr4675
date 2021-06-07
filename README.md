@@ -14,6 +14,6 @@
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>&nbsp
 </p>
 
-<p align="center">
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wlsdnr4675&show_icons=true&theme=radical)
-</p>
+
