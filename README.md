@@ -1,5 +1,11 @@
 <div align="center">
 <p align="center"> Hi ! Im JINWOOK from KOREA 👋</p>
+  <p align="center">
+  <img src="https://img.shields.io/badge/Gmail-ff3000?style=flat-square&logo=Gmail&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/SpringBoot-6db33f?style=flat-square&logo=Spring&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/MySQL-003545?style=flat-square&logo=MySQL&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>&nbsp
+</p>
 <p align="center">:books:Tech Stack</p>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ff3000?style=flat-square&logo=Java&logoColor=white"/>&nbsp
