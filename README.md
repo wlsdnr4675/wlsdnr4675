@@ -1,4 +1,4 @@
-
+<p align="center"> Hi ! Im JINWOOK from KOREA 👋</p>
 <p align="center">:books:Tech Stack</p>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ff3000?style=flat-square&logo=Java&logoColor=white"/>&nbsp
