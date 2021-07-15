@@ -1,7 +1,7 @@
 <div align="center">
 <p align="center"> Hi ! Im JINWOOK from KOREA 👋</p>
   <p align="center">
-  <a herf="mailto:wlsdnr4675@gmail.com"><img src="https://img.shields.io/badge/Gmail-ff3000?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp
+  <a href="mailto:wlsdnr4675@gmail.com"><img src="https://img.shields.io/badge/Gmail-ff3000?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Instagram-6db33f?style=flat-square&logo=Instagram&logoColor=white"/>&nbsp
 </p>
 <p align="center">:books:Back_end Stack</p>
